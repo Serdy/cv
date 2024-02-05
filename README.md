@@ -30,7 +30,7 @@ With a journey in IT that began in 2005, I bring over 18 years of enriching expe
 
 ## Experience
 
-### Technical Lead/Cloud Engineer | Arelion/Kolomolo | *2022 - Present*
+### Technical Lead/Platform Engineer | Arelion/Kolomolo | *2022 - Present*
 #### Customer: Largest Global Network Provider
 #### Project Description: Networking
 #### Tools & Technologies: AWS, Terraform, Kubernetes (EKS), GitHub Actions, Python
